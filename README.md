@@ -48,7 +48,7 @@ in the earlier part of my blog entries</p>
    page corrosponding to each chapter, in chapter 2 I will discuss more into details my own experiences with 
    this season, fond memories, reasoning why I link Spring with a happy time and why I look forward to it each year.
    </p>
-
+   
 <h1>Chapter 2</h1>
 <p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
    page corrosponding to each chapter, chapter 3 is my most recent blog entry, in this chapter I hope you are 
