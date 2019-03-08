@@ -22,18 +22,27 @@
 </head>
 <body>
 <h1>Welcome to My blog Post</h1>
-<p></p>
+<p>Hello and welcome to my blog website I wish to demonstrate my love of Spring time
+and why it is the best season in my opinion, I will split this website into three different
+chapters which will outline my love of Spring and why I associate it as the best season
+I have entitled a list on this homepage will will talk about my topic, chapters 1,2 and 3
+respectively I would like to thank whoever is reading this for checking out my page and taking time out of 
+their day to read about my blog entries on this topic.</p>
 
 <h1>About My Topic</h1>
+<p>The topic in discussion is everything to do with Spring time, the great memories it brings me, the people
+I have had experiences with throughout the years at this amazing time, the events that have had a long lasting and 
+profound impact on my life and the very reason for why I find such joy at this time of year, the three
+chapters I will discuss further will help you, the reader to understand why it is the greatest season and 
+hopefully if you disagree initally I can change your mind.</p>
+
+<h1>Chapter 1</h1>
 <p></p>
 
-<h1>Chapter 1/h1>
+<h1>Chapter 2</h1>
 <p></p>
 
-<h1>Chapter 2/h1>
-<p></p>
-
-<h1>Chapter 3/h1>
+<h1>CHapter 2</h1>
 <p></p>
 
 <header class="page-header" role="banner">
