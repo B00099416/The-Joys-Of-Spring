@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
@@ -22,10 +21,22 @@
     <link rel="stylesheet" href="css/normalize.css">
 </head>
 <body>
+<h1>Welcome to My blog Post</h1>
+<p></p>
+
+<h1>About My Topic</h1>
+<p></p>
+
+<h1>Chapter 1/h1>
+<p></p>
+
+<h1>Chapter 2/h1>
+<p></p>
+
+<h1>Chapter 3/h1>
+<p></p>
 
 <header class="page-header" role="banner">
-    <h1 class="project-name">The-Joys-Of-Spring</h1>
-    <h2 class="project-tagline">An Original Blog Entry By: Ian Carpendale</h2>
 
     <a href="Chapter01.html" class="btn">Chapter One</a>
     <a href="Chapter02.html" class="btn">Chapter Two</a>
