@@ -41,7 +41,7 @@ hopefully if you disagree initally I can change your mind.</p>
 page corrosponding to each chapter, chapter 1 will take invite you into my appreciation for Spring, it will 
 slowly guide you into why I enjoy the season and why you should to, it will be easy to follow, fun and 
 informative to read, I will save personal experiences for later chapters as I want people to become curious
-in the earlier part of my blog entries</p>
+in the earlier part of my blog entries.</p>
 
 <h1>Chapter 2</h1>
 <p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
