@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>Chapter01</title>
+    <title>Homepage</title>
     <meta name="generator" content="Jekyll v3.7.4" />
     <meta property="og:title" content="The Joys Of Spring  In All Its Glory" />
     <meta property="og:locale" content="en_US" />
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="css/normalize.css">
 </head>
 <body>
-<h1>Welcome to My blog Post</h1>
+<h1>Welcome To My Blog Post</h1>
 <p>Hello and welcome to my blog website I wish to demonstrate my love of Spring time
 and why it is the best season in my opinion, I will split this website into three different
 chapters which will outline my love of Spring and why I associate it as the best season
@@ -49,7 +49,7 @@ in the earlier part of my blog entries.</p>
    this season, fond memories, reasoning why I link Spring with a happy time and why I look forward to it each year.
    </p>
    
-<h1>Chapter 2</h1>
+<h1>Chapter 3</h1>
 <p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
    page corrosponding to each chapter, chapter 3 is my most recent blog entry, in this chapter I hope you are 
    becomming to agree with me with my stance on Springtime and why it is indeed a great season, as it is my 
