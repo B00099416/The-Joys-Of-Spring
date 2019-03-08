@@ -37,13 +37,24 @@ chapters I will discuss further will help you, the reader to understand why it i
 hopefully if you disagree initally I can change your mind.</p>
 
 <h1>Chapter 1</h1>
-<p></p>
+<p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
+page corrosponding to each chapter, chapter 1 will take invite you into my appreciation for Spring, it will 
+slowly guide you into why I enjoy the season and why you should to, it will be easy to follow, fun and 
+informative to read, I will save personal experiences for later chapters as I want people to become curious
+in the earlier part of my blog entries</p>
 
 <h1>Chapter 2</h1>
-<p></p>
+<p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
+   page corrosponding to each chapter, in chapter 2 I will discuss more into details my own experiences with 
+   this season, fond memories, reasoning why I link Spring with a happy time and why I look forward to it each year.
+   </p>
 
-<h1>CHapter 2</h1>
-<p></p>
+<h1>Chapter 2</h1>
+<p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
+   page corrosponding to each chapter, chapter 3 is my most recent blog entry, in this chapter I hope you are 
+   becomming to agree with me with my stance on Springtime and why it is indeed a great season, as it is my 
+    most recent entry and Springtime has only started I will outline my plans for this Springtime while I 
+    get excited for the fun times to come.</p>
 
 <header class="page-header" role="banner">
 
