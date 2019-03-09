@@ -35,7 +35,7 @@ I have had experiences with throughout the years at this amazing time, the event
 profound impact on my life and the very reason for why I find such joy at this time of year, the three
 chapters I will discuss further will help you, the reader to understand why it is the greatest season and 
 hopefully if you disagree initally I can change your mind.</p>
-
+  
 <h1>Chapter 1</h1>
 <p>You Will see that At the end of this homepage I have included 3 links which will bring you to the relevant
 page corrosponding to each chapter, chapter 1 will take invite you into my appreciation for Spring, it will 
