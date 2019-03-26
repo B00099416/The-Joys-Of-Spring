@@ -42,9 +42,11 @@ in the earlier part of my blog entries.</p>
     <a href="Chapter03.html" class="btn">Chapter Three</a>
 </header>
 
-[Click Here For Chapter 1](https://b00099416.github.io/github-story-2019/Chapter01.html)
-[Click Here For Chapter 2](https://b00099416.github.io/github-story-2019/Chapter02.html)
-[Click Here For Chapter 3](https://b00099416.github.io/github-story-2019/Chapter03.html)
+Click [Here](https://b00099416.github.io/github-story-2019/Chapter01.html) for Chapter 01
+
+Click [Here](https://b00099416.github.io/github-story-2019/Chapter02.html) for Chapter 02
+
+Click [Here](https://b00099416.github.io/github-story-2019/Chapter03.html) for Chapter 03
 
 
 </body>
