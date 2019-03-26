@@ -1,25 +1,4 @@
 <html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-
-    <title>Homepage</title>
-    <meta name="generator" content="Jekyll v3.7.4" />
-    <meta property="og:title" content="The Joys Of Spring  In All Its Glory" />
-    <meta property="og:locale" content="en_US" />
-    <meta name="description" content="Cayman is a clean, responsive theme for GitHub Pages." />
-    <meta property="og:description" content="Cayman is a clean, responsive theme for GitHub Pages." />
-    <link rel="canonical" href="https://pages-themes.github.io/cayman/" />
-    <meta property="og:url" content="https://pages-themes.github.io/cayman/" />
-    <meta property="og:site_name" content="Cayman theme" />
-    <script type="application/ld+json">
-{"@type":"WebSite","url":"https://pages-themes.github.io/cayman/","name":"Cayman theme","headline":"Cayman theme","description":"Cayman is a clean, responsive theme for GitHub Pages.","@context":"http://schema.org"}</script>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="css/cayman.css">
-    <link rel="stylesheet" href="css/normalize.css">
-</head>
 <body>
 <h1>Welcome To My Blog Post</h1>
 <p>Hello and welcome to my blog website I wish to demonstrate my love of Spring time
@@ -63,11 +42,10 @@ in the earlier part of my blog entries.</p>
     <a href="Chapter03.html" class="btn">Chapter Three</a>
 </header>
 
-<main id="content" class="main-content" role="main">
+[Click Here For Chapter 1](https://b00099416.github.io/github-story-2019/Chapter01.html)
+[Click Here For Chapter 2](https://b00099416.github.io/github-story-2019/Chapter02.html)
+[Click Here For Chapter 3](https://b00099416.github.io/github-story-2019/Chapter03.html)
 
-    <blockquote>
-        <p></p>
-    </blockquote>
-</main>
+
 </body>
 </html>
