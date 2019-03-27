@@ -14,7 +14,7 @@ reasoning and topics as to why Springtime is the best
 
 - Click [Here](https://b00099416.github.io/github-story-2019/Chapter01.html) for Chapter 01
 - Click [Here](https://b00099416.github.io/github-story-2019/Chapter02.html) for Chapter 02
-- Click [Here](https://b00099416.github.io/github-story-2019/Chapter03.html) for Chapter 03 (ALternative Ending)
+- Click [Here](https://b00099416.github.io/github-story-2019/Alt.html) for Chapter 03 (ALternative Ending)
 
 # Issues
 - Click [Here](https://github.com/B00099416/github-story-2019/issues/1) for Issue One
