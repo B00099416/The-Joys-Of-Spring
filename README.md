@@ -35,6 +35,6 @@ reasoning and topics as to why Springtime is the best
 
 Brought to you by Ian Carpendale catch me at my [Github](https://github.com/B00099416)
 
-Or Email me [Here](mailto:b00100201@student.itb.ie)
+Or Email me [Here](mailto:B00099416@student.itb.ie)
 
 Thanks for reading
