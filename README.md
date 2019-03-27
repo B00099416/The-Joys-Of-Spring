@@ -16,6 +16,5 @@ Click [Here](https://b00099416.github.io/github-story-2019/Chapter02.html) for C
 Click [Here](https://b00099416.github.io/github-story-2019/Chapter03.html) for Chapter 03
 
 #Author
-Brought to you by Ian Carpendale catch me at my [Github](https://github.com/B00099416)
-### 
-Thanks for reading
+Brought to you by Ian Carpendale catch me [Here](https://github.com/B00099416) for Chapter 03
+
